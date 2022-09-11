@@ -7,3 +7,4 @@ var base64String = Buffer_hex_string.toString('base64')
 var ResultInB64="ShtI1zIjlKeDJs0oPwg0CT5lQhp+mOkOW0UtFgtdB9g="
 console.log(base64String)
 console.log(ResultInB64==base64String)
+
